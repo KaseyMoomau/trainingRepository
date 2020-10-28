@@ -1,0 +1,8 @@
+What method do you use to add an element to the end of a std::vector?
+push_back
+
+What method do you use to add a key and value to std::map?
+insert, emplace?
+
+Is there a c++ function to find the minimum and maximum of an array? Which header is it under?
+std:minmax, under <algorithm> looks like it might do the trick. cplusplus.com/reference/algorithm/minmax/
